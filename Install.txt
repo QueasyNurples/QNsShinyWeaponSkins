@@ -4,7 +4,7 @@ In-game: "Options-->Video-->Advanced Video-->SpecularMap: Yes"
 
 
 
-Important-ish Notes: -The "Specific [blank]" folders are there just incase you wanted the names of certain weapons/weapon parts/attachments .iwi's and didnt know the name of them,                          or if you want to easily edit specific ones yourself, they have my bright blue pack files in there, not the original mw2 ones.
+Important-ish Notes: -The "Specific [blank]" folders are there just incase you wanted the names of certain weapons/weapon parts/attachments .iwi's and didnt know the name of them,                          or if you want to easily edit specific ones yourself.
     
      -this Shiny Weapon Pack just replaces the base "shine" of most weapons/attachments so you can still select camos like red tiger, blue tiger, etc.,. and the shine will still           be there, Some guns might look good, some might look terrible, but whatever. it is what it is.
      
