@@ -1,4 +1,4 @@
-Copy the .iwi files in: ".../your iw4x directory/userraw/images"   if you dont have the images or userraw folders, just create them.
+Copy the .iwi files into: ".../your iw4x directory/userraw/images"   if you dont have the images or userraw folders, just create them.
 
 In-game: "Options-->Video-->Advanced Video-->SpecularMap: Yes" 
 
