@@ -1,0 +1,10 @@
+Copy the .iwi files in: ".../your iw4x directory/userraw/images"   if you dont have the images or userraw folders, just create them.
+
+In-game: "Options-->Video-->Advanced Video-->SpecularMap: Yes" 
+
+
+
+Note -this just replaces the base "shine" of most weapons/attachments so you can still select camos like red tiger, blue tiger, etc.,. and the shine will still be there.
+       Some guns might look good, some might look terrible, but whatever it is what it is.
+     
+     -I thought the F2000 had the brightest shine so I used it for the preview pictures, other weapons might not be as bright.
